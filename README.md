@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codefreak69&label=Profile%20views&color=0e75b6&style=flat" alt="codefreak69" /> </p>
 
-- 🌱 I’m currently learning **Express, Firebase**
+- 🌱 I’m currently learning **React-Native Firebase**
 
 - ⚡ Hobbies **sometimes a Gamer**
 
